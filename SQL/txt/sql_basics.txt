@@ -1,0 +1,7 @@
+SQL Basics
+
+
+
+# Get table information from database
+	
+	PRAGMA table_info(city);
